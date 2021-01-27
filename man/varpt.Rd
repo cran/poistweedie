@@ -28,11 +28,6 @@ variance for the Poisson-Tweedie family of distributions
 \author{Cactha David Pechel, Laure Pauline Fotso  and  Celestin C Kokonendji
 Maintainer: Cactha David Pechel ( <davidpechel@yahoo.fr>)}
 
-\references{}
-
-
-
-
 \seealso{\code{\link{dpoistweedie}},  \code{\link{ppoistweedie}} }
 
 \examples{

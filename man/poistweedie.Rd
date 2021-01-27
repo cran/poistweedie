@@ -48,11 +48,6 @@ nbinomiale(x, n, p, lambda1, p1, lower.tail = TRUE, log.p = FALSE,
 \author{Cactha David Pechel, Laure Pauline Fotso  and  Celestin C Kokonendji
 Maintainer: Cactha David Pechel ( <davidpechel@yahoo.fr>)}
 
-\references{}
-
-
-
-
 \seealso{\code{\link{dpoistweedie}},   \code{\link{ppoistweedie}}  }
 
 \examples{

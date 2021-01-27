@@ -34,8 +34,6 @@ probability (\code{ppoistweedie}), for the given Poisson-Tweedie distribution wi
 \author{Cactha David Pechel, Laure Pauline Fotso  and  Celestin C Kokonendji
 Maintainer: Cactha David Pechel ( <davidpechel@yahoo.fr>)}
  
-\references{}
-
 \seealso{\code{\link{qpoistweedie}}}
 
 \examples{   

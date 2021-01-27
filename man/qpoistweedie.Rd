@@ -37,8 +37,6 @@ for the given Poisson-Tweedie distribution with parameters
 \author{Cactha David Pechel, Laure Pauline Fotso  and  Celestin C Kokonendji
 Maintainer: Cactha David Pechel ( <davidpechel@yahoo.fr>)}
  
-\references{}
-
 \seealso{\code{\link{poistweedie}}}
 
 \examples{   
