@@ -15,7 +15,7 @@ function(p, n, mu, lambda, theta0)
     alpha <- double(1)
 	## pr <- double(n)
    
-    ## fixons la précision a 14
+    ## fixons la prÃ©cision a 14
 	##pr<- 14
     
     alpha <- (p - 2)/(p - 1)

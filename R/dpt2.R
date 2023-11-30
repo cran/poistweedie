@@ -10,7 +10,7 @@ function (p, n, mu, lambda, theta0)
     sumv <- matrix(0, n, n)
 	## pr <- double(n)
    
-    ## fixons la précision a 14
+    ## fixons la prÃ©cision a 14
 	## pr<- 14
     w <- omega(p,mu,theta0)
     y <- c(0:n)

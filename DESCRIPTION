@@ -1,5 +1,5 @@
 Package: poistweedie
-Version: 1.0.1
+Version: 1.0.2
 Date: 2010-02-28
 Title: Poisson-Tweedie Exponential Family Models
 Author: David Pechel Cactcha, Laure Pauline Fotso and Celestin C
@@ -9,8 +9,8 @@ Depends: R (>= 2.10.0)
 Description: Simulation of models Poisson-Tweedie.
 License: GPL (>= 2)
 URL: https://CRAN.R-project.org/package=poistweedie
-Packaged: 2021-01-27 08:45:14 UTC; hornik
+Packaged: 2023-11-30 15:47:23 UTC; hornik
 Repository: CRAN
-Date/Publication: 2021-01-27 09:14:37 UTC
-Encoding: latin1
+Date/Publication: 2023-11-30 15:49:31 UTC
+Encoding: UTF-8
 NeedsCompilation: no
